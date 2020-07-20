@@ -21,20 +21,22 @@
 ### 出演乐队：
     
 8月16日:
-⋅⋅* BurningFantastic
-⋅⋅* 翠Emerald
-⋅⋅* Atlantis
-⋅⋅* Anonymous
-⋅⋅* AURORA
-⋅⋅* pseudoscience
 
+* BurningFantastic
+* 翠Emerald
+* Atlantis
+* Anonymous
+* AURORA
+* pseudoscience
+  
 8月17日:
-⋅⋅* △Delta
-⋅⋅* ScrapeTogether
-⋅⋅* 逃逸速度
-⋅⋅* free+∞ 无限自由
-⋅⋅* Underskin
-⋅⋅* 拾贰
+
+* △Delta
+* ScrapeTogether
+* 逃逸速度
+* free+∞ 无限自由
+* Underskin
+* 拾贰
 
 ### 乐队简介
 
