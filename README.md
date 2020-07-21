@@ -46,7 +46,7 @@
 
 ### 乐队简介
 
-throw new NotImplementedException();
+见购票页面
 
 ## 购票与定价
 
@@ -57,14 +57,10 @@ throw new NotImplementedException();
 | __预售通票__   | __90 CNY__    |
 
 
-~~__购票二维码(Not avalible)：__~~
+__购票二维码：__
 
-~~__购票链接：__  [__暂未开票，敬请期待__](null)~~  
-~~你也可以手动复制链接来访问购票网站: 
-```http://null```~~
+![QR4tk](./src/images/QR4tk.png)
 
-### 关于购票
-
-快要开票了，再等等吧。届时这个页面的信息会更新。  
-如果你使用GitHub，直接订阅这个项目，在更新时便会收到邮件。  
-届时还请关注我们在QQ空间，微信朋友圈，列表私信发布的购票信息。  
+__购票链接：__  [__ClikThis!!__](showstart.com/event/113254?ssfrom=yp-zyb)  
+你也可以手动复制链接来访问购票网站: 
+```showstart.com/event/113254?ssfrom=yp-zyb```  
