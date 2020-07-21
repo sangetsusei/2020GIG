@@ -1,2 +1,64 @@
-# 2020MAO
-Host repo for Kunming 2020 students' music festival
+# 一切如常
+
+2020高中生音乐节
+
+![alt="poster01 宣传海报"](./src/images/poster.jpg "宣传海报")
+
+## Before we get started
+
+如果没有使用科学上网，图片可能无法显示。别担心，__这不会影响你的任何操作__。
+
+## 演出详细信息
+
+### 演出时间:
+
+2020年8月16日与17日
+预计开始于 19:30
+
+### 演出地点:
+
+昆明市盘龙区北京路与白云路交叉口 同德广场-悦汇坊 B1楼06号
+
+### 出演乐队：
+    
+8月16日:
+
+* BurningFantastic
+* 翠Emerald
+* Atlantis
+* Anonymous
+* AURORA
+* pseudoscience
+  
+8月17日:
+
+* △Delta
+* ScrapeTogether
+* 逃逸速度
+* free+∞ 无限自由
+* Underskin
+* 拾贰
+
+### 乐队简介
+
+throw new NotImplementedException();
+
+## 购票与定价
+
+| 票种          | 价格           |
+| ------------- |:-------------:|
+| __预售单日票__ | __50 CNY__    |
+| __现场单日票__ | __60 CNY__    |
+| __预售通票__   | __90 CNY__    |
+
+
+~~__购票二维码(Not avalible)：__~~
+
+~~__购票链接：__  [__暂未开票，敬请期待__](null)~~  
+~~你也可以手动复制链接来访问购票网站：```http://null```~~
+
+### 关于购票
+
+快要开票了，再等等吧。届时这个页面的信息会更新。
+如果你使用GitHub，直接订阅这个项目，在更新时便会收到邮件。
+届时还请关注我们在QQ空间，微信朋友圈，列表私信发布的购票信息。
