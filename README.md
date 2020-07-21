@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# 一切如常
 
-You can use the [editor on GitHub](https://github.com/sangetsusei/2020MAO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2020高中生音乐节
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt="poster01 宣传海报"](../src/images/poster.jpg "宣传海报")
 
-### Markdown
+## Before we get started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果没有使用科学上网，图片可能无法显示。别担心，__这不会影响你的任何操作__。
 
-```markdown
-Syntax highlighted code block
+## 演出详细信息
 
-# Header 1
-## Header 2
-### Header 3
+### 演出时间:
 
-- Bulleted
-- List
+2020年8月16日与17日
+预计开始于 19:30
 
-1. Numbered
-2. List
+### 演出地点:
 
-**Bold** and _Italic_ and `Code` text
+昆明市盘龙区北京路与白云路交叉口 同德广场-悦汇坊 B1楼06号
 
-[Link](url) and ![Image](src)
-```
+### 出演乐队：
+    
+8月16日:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* BurningFantastic
+* 翠Emerald
+* Atlantis
+* Anonymous
+* AURORA
+* pseudoscience
+  
+8月17日:
 
-### Jekyll Themes
+* △Delta
+* ScrapeTogether
+* 逃逸速度
+* free+∞ 无限自由
+* Underskin
+* 拾贰
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sangetsusei/2020MAO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 乐队简介
 
-### Support or Contact
+throw new NotImplementedException();
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 购票与定价
+
+| 票种          | 价格           |
+| ------------- |:-------------:|
+| __预售单日票__ | __50 CNY__    |
+| __现场单日票__ | __60 CNY__    |
+| __预售通票__   | __90 CNY__    |
+
+
+~~__购票二维码(Not avalible)：__~~
+
+~~__购票链接：__  [__暂未开票，敬请期待__](null)~~  
+~~你也可以手动复制链接来访问购票网站：```http://null```~~
+
+### 关于购票
+
+暂收没有在任何平台开放售卖预售票
+我们建议您届时关注在qq空间等平台的宣传，当然这个页面的信息也会更新。  
+如果你想要收到开票的邮件通知，请发送诸如“我要订阅开票通知”这样的文本到```sangetsusei@outlook.com```
+届时我会手动发送包含购票途径的邮件给您。  
+  
+如果你使用GitHub，请点击顶部的"WATCH->Watching"，你将会收到来自GitHub的邮件一旦这个项目的内容有任何更新。
