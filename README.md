@@ -2,7 +2,7 @@
 
 2020高中生音乐节
 
-![alt="poster01 宣传海报"](../src/images/poster.jpg "宣传海报")
+![alt="poster01 宣传海报"](./src/images/poster.jpg "宣传海报")
 
 ## Before we get started
 
