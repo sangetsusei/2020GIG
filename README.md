@@ -61,6 +61,6 @@ __购票二维码：__
 
 ![QR4tk](./src/images/QR4tk.png)
 
-__购票链接：__  [__ClikThis!!__](https://showstart.com/event/113254?ssfrom=yp-zyb)  
+__购票链接：__  [__ClikThis!!__](https://www.showstart.com/event/113254?ssfrom=yp-zyb)  
 你也可以手动复制链接来访问购票网站: 
-```showstart.com/event/113254?ssfrom=yp-zyb```  
+```https://www.showstart.com/event/113254?ssfrom=yp-zyb```  
