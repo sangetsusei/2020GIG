@@ -23,18 +23,20 @@
 ![Map](./src/images/map.png)
 
 ### 出演乐队：
-    
-8月16日:
 
+  
+
+8月16日:
 * BurningFantastic
 * 翠Emerald
 * Atlantis
 * Anonymous
 * AURORA
 * pseudoscience
+
+  
   
 8月17日:
-
 * △Delta
 * ScrapeTogether
 * 逃逸速度
@@ -58,7 +60,10 @@ throw new NotImplementedException();
 ~~__购票二维码(Not avalible)：__~~
 
 ~~__购票链接：__  [__暂未开票，敬请期待__](null)~~  
-~~你也可以手动复制链接来访问购票网站：```http://null```~~
+~~你也可以手动复制链接来访问购票网站：~~
+```
+http://null
+```
 
 ### 关于购票
 
