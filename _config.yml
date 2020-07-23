@@ -1,2 +1,7 @@
 theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
+title: [一切如常|2020高中生音乐节]
+#description: [A short description of your site's purpose]
+#logo: [Location of the logo]
+show_downloads: false
+google_analytics: UA-173140490-2
