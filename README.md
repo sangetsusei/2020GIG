@@ -65,5 +65,6 @@ This project contains resources like business card design files. Reserved for fu
 
 
 ~~__购票链接：__  [NotAvalible](https://www.showstart.com/event/113254?ssfrom=yp-zyb)  ~~
-~~你也可以手动复制链接来访问购票网站: ~~
-~~```https://www.showstart.com/event/113254?ssfrom=yp-zyb```~~  
+  
+~~你也可以手动复制链接来访问购票网站: 
+```https://www.showstart.com/event/113254?ssfrom=yp-zyb```~~  
