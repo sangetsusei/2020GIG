@@ -11,7 +11,8 @@ This project contains resources like business card design files. Reserved for fu
 
 ## 演出详细信息
 
-![MAO_LOGO](./src/images/MaoLOGO.jpg "MAOLOGO")
+演出地点未定，敬请期待
+<!--![MAO_LOGO](./src/images/MaoLOGO.jpg "MAOLOGO")-->
 
 ### 演出时间:
 
@@ -20,8 +21,10 @@ This project contains resources like business card design files. Reserved for fu
 
 ### 演出地点:
 
-昆明市盘龙区北京路与白云路交叉口 同德广场-悦汇坊 B1楼06号
-![Map](./src/images/map.png)
+可能是摩登天空?
+现在我们也不知道.
+<!--~~昆明市盘龙区北京路与白云路交叉口 同德广场-悦汇坊 B1楼06号~~
+![Map](./src/images/map.png)-->
 
 ### 出演乐队：
 
