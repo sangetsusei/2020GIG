@@ -1,6 +1,7 @@
 # 一切如常
 
-2020高中生音乐节
+2020高中生音乐节  
+This project contains resources like business card design files. Reserved for further use.
 
 ![alt="poster01 宣传海报"](./src/images/poster.jpg "宣传海报")
 
